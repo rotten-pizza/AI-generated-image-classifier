@@ -95,11 +95,5 @@ The CNN model significantly outperformed traditional methods, demonstrating the 
 - **Transfer Learning:** Implementing ResNet50 or EfficientNet-B0 for higher resolution datasets.
 - **Explainability (XAI):** Integrating Grad-CAM to visualize which regions of an image trigger "Fake" classifications.
 - **Robustness Testing:** Evaluating performance against adversarial attacks and compression artifacts.
-
-## 💎 Why This is Technically Impressive
-- **Comparative Analysis:** Not just a single model, but a rigorous comparison between 5 different ML paradigms.
-- **Scalability:** The preprocessing pipeline is designed to handle large-scale datasets (100k+ images) efficiently.
-- **Optimization:** Utilized techniques like Dropout and Batch Normalization to prevent overfitting on synthetic patterns.
-
 ---
 *Developed as part of a deep dive into AI Ethics and Computer Vision.*
